@@ -1,0 +1,2420 @@
+[
+
+{
+  "id": 1,
+  "name": "『土方の話』",
+  "characters": [
+    "和泉守兼定",
+    "堀川国広"
+  ],
+  "battlefield": "維新の記憶 函館（1-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 2,
+  "name": "『沖田の話』",
+  "characters": [
+    "加州清光",
+    "大和守安定"
+  ],
+  "battlefield": "維新の記憶 鳥羽（1-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 3,
+  "name": "『太郎と次郎』",
+  "characters": [
+    "太郎太刀",
+    "次郎太刀"
+  ],
+  "battlefield": "江戸の記憶 鳥羽（2-1）",
+  "trigger": ""
+},
+{
+  "id": 4,
+  "name": "『無用の長物』",
+  "characters": [
+    "同田貫正国",
+    "御手杵"
+  ],
+  "battlefield": "江戸の記憶 江戸（2-2）",
+  "trigger": "出陣"
+},
+{
+  "id": 5,
+  "name": "『悲しみの剣たち』",
+  "characters": [
+    "一期一振",
+    "鯰尾藤四郎"
+  ],
+  "battlefield": "江戸の記憶 大阪（大阪冬の陣）（2-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 6,
+  "name": "『安土の名工』",
+  "characters": [
+    "山姥切国広",
+    "山伏国広"
+  ],
+  "battlefield": "織豊の記憶 安土（3-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 7,
+  "name": "『今川の剣』",
+  "characters": [
+    "江雪左文字",
+    "宗三左文字"
+  ],
+  "battlefield": "戦国の記憶 桶狭間（4-3）",
+  "trigger": "出陣"
+},
+{
+  "id": 8,
+  "name": "『義経の話』",
+  "characters": [
+    "岩融",
+    "今剣"
+  ],
+  "battlefield": "武家の記憶 厚樫山（阿津賀志山の戦い）（5-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 9,
+  "name": "『神剣までの道』",
+  "characters": [
+    "石切丸",
+    "にっかり青江"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 10,
+  "name": "『藤四郎だらけなのは』",
+  "characters": [
+    "厚藤四郎",
+    "五虎退"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 11,
+  "name": "『来派の話』",
+  "characters": [
+    "蛍丸",
+    "愛染国俊"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 12,
+  "name": "『足利家の話』",
+  "characters": [
+    "三日月宗近",
+    "骨喰藤四郎"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 13,
+  "name": "『』",
+  "characters": [
+    "小狐丸",
+    "鳴狐"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 14,
+  "name": "『近藤ＶＳ龍馬』",
+  "characters": [
+    "陸奥守吉行",
+    "長曽祢虎徹"
+  ],
+  "battlefield": "維新の記憶 鳥羽（1-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 15,
+  "name": "『池田屋事件 市中』",
+  "characters": [
+    "和泉守兼定",
+    "堀川国広",
+    "長曽祢虎徹"
+  ],
+  "battlefield": "池田屋の記憶 京都（市中）（6-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 16,
+  "name": "『池田屋事件 大橋にて』",
+  "characters": [
+    "大和守安定",
+    "和泉守兼定"
+  ],
+  "battlefield": "池田屋の記憶 京都（三条大橋）（6-2）",
+  "trigger": "出陣"
+},
+{
+  "id": 17,
+  "name": "『池田屋事件 突入』",
+  "characters": [
+    "加州清光",
+    "大和守安定"
+  ],
+  "battlefield": "池田屋の記憶 京都（池田屋二階）（6-3）",
+  "trigger": "出陣"
+},
+{
+  "id": 18,
+  "name": "『池田屋事件 裏庭へ』",
+  "characters": [
+    "加州清光",
+    "長曽祢虎徹"
+  ],
+  "battlefield": "池田屋の記憶 京都（池田屋一階）（6-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 19,
+  "name": "『博多の話』",
+  "characters": [
+    "博多藤四郎",
+    "日本号"
+  ],
+  "battlefield": "武家の記憶 博多湾（元寇）（5-2）",
+  "trigger": "出陣"
+},
+{
+  "id": 20,
+  "name": "『三本の槍』",
+  "characters": [
+    "蜻蛉切",
+    "日本号",
+    "御手杵"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 21,
+  "name": "『黒田家の話』",
+  "characters": [
+    "へし切長谷部",
+    "日本号"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 22,
+  "name": "『黒田家の話 その後』",
+  "characters": [
+    "へし切長谷部",
+    "日本号"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 21,
+      "name": "『黒田家の話』"
+    },
+"へし切長谷部と日本号を一緒に編成して20回出陣"
+  ]
+},
+{
+  "id": 23,
+  "name": "『幸運の刀』",
+  "characters": [
+    "後藤藤四郎",
+    "物吉貞宗"
+  ],
+  "battlefield": "戦国の記憶 三方ヶ原（4-2）",
+  "trigger": "出陣"
+},
+{
+  "id": 24,
+  "name": "『源氏の宝剣』",
+  "characters": [
+    "髭切",
+    "膝丸"
+  ],
+  "battlefield": "武家の記憶 墨俣（承久の乱）（5-3）",
+  "trigger": "出陣"
+},
+{
+  "id": 25,
+  "name": "『悲しみと、なぐさめ』",
+  "characters": [
+    "へし切長谷部",
+    "不動行光"
+  ],
+  "battlefield": "織豊の記憶 本能寺（3-2）",
+  "trigger": "出陣"
+},
+{
+  "id": 26,
+  "name": "『僧と山伏』",
+  "characters": [
+    "数珠丸恒次",
+    "山伏国広"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 27,
+  "name": "『関ヶ原へは……』",
+  "characters": [
+    "太鼓鐘貞宗",
+    "大倶利伽羅"
+  ],
+  "battlefield": "織豊の記憶 関ヶ原（3-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 28,
+  "name": "『幕府の霊的な守り』",
+  "characters": [
+    "大典太光世",
+    "ソハヤノツルキ"
+  ],
+  "battlefield": "維新の記憶 会津（1-2）",
+  "trigger": "出陣"
+},
+{
+  "id": 29,
+  "name": "『写しの悲哀』",
+  "characters": [
+    "ソハヤノツルキ",
+    "山姥切国広"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 30,
+  "name": "『前田家の話』",
+  "characters": [
+    "大典太光世",
+    "前田藤四郎"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 31,
+  "name": "『天下人の霊剣』",
+  "characters": [
+    "ソハヤノツルキ",
+    "物吉貞宗"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 32,
+  "name": "『九曜と竹雀のえにし 発端』",
+  "characters": [
+    "小夜左文字",
+    "歌仙兼定"
+  ],
+  "battlefield": "延享の記憶 江戸（新橋）（7-1）",
+  "trigger": "帰城後",
+  "prerequisites": ["ボスマス勝利(判定問わず。敗北した場合は発生せず)"]
+},
+{
+  "id": 33,
+  "name": "『九曜と竹雀のえにし 勃発』",
+  "characters": [
+    "歌仙兼定",
+    "大倶利伽羅"
+  ],
+  "battlefield": "延享の記憶 江戸（新橋）（7-1）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 32,
+      "name": "『九曜と竹雀のえにし 発端』"
+    }
+  ]
+},
+{
+  "id": 34,
+  "name": "『九曜と竹雀のえにし 接触』",
+  "characters": [
+    "燭台切光忠",
+    "小夜左文字",
+    "大倶利伽羅"
+  ],
+  "battlefield": "延享の記憶 江戸（白金台）（7-2）",
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 33,
+      "name": "『九曜と竹雀のえにし 勃発』"
+    },
+    "ボスマス勝利(判定問わず。敗北した場合は発生せず)","同シリーズの他の回想とは同時に発生しない"
+  ]
+},
+{
+  "id": 35,
+  "name": "『九曜と竹雀のえにし 接触・続』",
+  "characters": [
+    "燭台切光忠",
+    "小夜左文字",
+    "鶴丸国永"
+  ],
+  "battlefield": "延享の記憶 江戸（白金台）（7-2）",
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 34,
+      "name": "『九曜と竹雀のえにし 接触』"
+    },
+    "ボスマス勝利(判定問わず。敗北した場合は発生せず)"
+  ]
+},
+{
+  "id": 36,
+  "name": "『九曜と竹雀のえにし 協力』",
+  "characters": [
+    "燭台切光忠",
+    "小夜左文字",
+    "歌仙兼定",
+    "大倶利伽羅"
+  ],
+  "battlefield": "延享の記憶 江戸（白金台）（7-2）",
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 34,
+      "name": "『九曜と竹雀のえにし 接触』"
+    },
+    "ボスマス勝利(判定問わず。敗北した場合は発生せず)"
+  ]
+},
+{
+  "id": 37,
+  "name": "『九曜と竹雀のえにし 協力・続』",
+  "characters": [
+    "太鼓鐘貞宗",
+    "燭台切光忠",
+    "小夜左文字",
+    "歌仙兼定",
+    "大倶利伽羅"
+  ],
+  "battlefield": "延享の記憶 江戸（白金台）（7-2）",
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 36,
+      "name": "『九曜と竹雀のえにし 協力』"
+    },
+    "ボスマス勝利(判定問わず。敗北した場合は発生せず)","同シリーズの他の回想とは同時に発生しない"
+  ]
+},
+{
+  "id": 38,
+  "name": "『九曜と竹雀のえにし 団結』",
+  "characters": [
+    "燭台切光忠",
+    "小夜左文字"
+  ],
+  "battlefield": "延享の記憶 江戸（江戸城下）（7-3）",
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 36,
+      "name": "『九曜と竹雀のえにし 協力』"
+    },
+    "ボスマス勝利(判定問わず。敗北した場合は発生せず)"
+  ]
+},
+{
+  "id": 39,
+  "name": "『九曜と竹雀のえにし 団結・続』",
+  "characters": [
+    "太鼓鐘貞宗",
+    "燭台切光忠",
+    "小夜左文字"
+  ],
+  "battlefield": "延享の記憶 江戸（江戸城下）（7-3）",
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 38,
+      "name": "『九曜と竹雀のえにし 団結』"
+    },
+    "ボスマス勝利(判定問わず。敗北した場合は発生せず)"
+  ]
+},
+{
+  "id": 40,
+  "name": "『九曜と竹雀のえにし 真心』",
+  "characters": [
+    "燭台切光忠",
+    "小夜左文字"
+  ],
+  "battlefield": "延享の記憶 江戸（江戸城下）（7-3）",
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 38,
+      "name": "『九曜と竹雀のえにし 団結』"
+    },
+    "ボスマス勝利(判定問わず。敗北した場合は発生せず)"
+  ]
+},
+{
+  "id": 41,
+  "name": "『九曜と竹雀のえにし 真心・続』",
+  "characters": [
+    "燭台切光忠",
+    "小夜左文字",
+    "鶴丸国永"
+  ],
+  "battlefield": "延享の記憶 江戸（江戸城下）（7-3）",
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 40,
+      "name": "『九曜と竹雀のえにし 真心』"
+    },
+    "ボスマス勝利(判定問わず。敗北した場合は発生せず)"
+  ]
+
+},
+{
+  "id": 42,
+  "name": "『九曜と竹雀のえにし 落着』",
+  "characters": [
+    "歌仙兼定",
+    "大倶利伽羅",
+    "燭台切光忠"
+  ],
+  "battlefield": "延享の記憶 江戸（江戸城内）（7-4）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 40,
+      "name": "『九曜と竹雀のえにし 真心』"
+    }
+  ]
+},
+{
+  "id": 43,
+  "name": "『九曜と竹雀のえにし 縁故』",
+  "characters": [
+    "小夜左文字",
+    "歌仙兼定",
+    "燭台切光忠",
+    "大倶利伽羅"
+  ],
+  "battlefield": "延享の記憶 江戸（江戸城内）（7-4）",
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 42,
+      "name": "『九曜と竹雀のえにし 落着』"
+    },
+    "途中帰還で発生するので、ボスマスで勝利する必要はない。一戦すればOK"
+  ]
+},
+{
+  "id": 44,
+  "name": "『じっちゃんと一緒』",
+  "characters": [
+    "獅子王",
+    "小烏丸"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 45,
+  "name": "『童子切はどこだ？』",
+  "characters": [
+    "大包平",
+    "鶯丸"
+  ],
+  "battlefield": "江戸の記憶 江戸（元禄）（2-3）",
+  "trigger": "出陣"
+},
+{
+  "id": 46,
+  "name": "『困った癖』",
+  "characters": [
+    "千子村正",
+    "蜻蛉切"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 47,
+  "name": "『命を果たすのは俺だ』",
+  "characters": [
+    "へし切長谷部",
+    "巴形薙刀"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 48,
+  "name": "『関ヶ原の両大将』",
+  "characters": [
+    "ソハヤノツルキ",
+    "毛利藤四郎"
+  ],
+  "battlefield": "織豊の記憶 関ヶ原（3-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 49,
+  "name": "『歌のかたち今昔』",
+  "characters": [
+    "歌仙兼定",
+    "篭手切江"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 50,
+  "name": "『輝く星を目指して』",
+  "characters": [
+    "平野藤四郎",
+    "篭手切江"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 51,
+  "name": "『謙信の話』",
+  "characters": [
+    "謙信景光",
+    "小豆長光"
+  ],
+  "battlefield": "織豊の記憶 越前（3-3）",
+  "trigger": "出陣"
+},
+{
+  "id": 52,
+  "name": "『西軍の刀たち』",
+  "characters": [
+    "毛利藤四郎",
+    "日向正宗"
+  ],
+  "battlefield": "織豊の記憶 関ヶ原（3-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 53,
+  "name": "『戦況の行方』",
+  "characters": [
+    "巴形薙刀",
+    "静形薙刀"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 54,
+  "name": "『呪い仲間』",
+  "characters": [
+    "山姥切国広",
+    "南泉一文字"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 55,
+  "name": "『猫斬りと山姥切』",
+  "characters": [
+    "南泉一文字",
+    "山姥切長義"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 56,
+  "name": "『ふたつの山姥切』",
+  "characters": [
+    "山姥切国広",
+    "山姥切長義"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 57,
+  "name": "『ふたつの山姥切』",
+  "characters": [
+    "山姥切国広・極",
+    "山姥切長義"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 58,
+  "name": "『すていじ あくと１』",
+  "characters": [
+    "篭手切江",
+    "豊前江"
+  ],
+  "battlefield": null,
+  "trigger": "帰城後"
+},
+{
+  "id": 59,
+  "name": "『槍への対抗心』",
+  "characters": [
+    "御手杵",
+    "静形薙刀"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 60,
+  "name": "『過去はなくとも』",
+  "characters": [
+    "骨喰藤四郎",
+    "静形薙刀"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 61,
+  "name": "『阿吽の長物』",
+  "characters": [
+    "同田貫正国",
+    "御手杵"
+  ],
+  "battlefield": "青野原の記憶 京都（阿弥陀ヶ峰）（8-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 62,
+  "name": "『阿吽の大小』",
+  "characters": [
+    "同田貫正国",
+    "骨喰藤四郎"
+  ],
+  "battlefield": "青野原の記憶 京都（阿弥陀ヶ峰）（8-1）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 61,
+      "name": "『阿吽の長物』"
+    },
+    "直進5マス目到達時"
+  ]
+},
+{
+  "id": 63,
+  "name": "『同病相憐れむ』",
+  "characters": [
+    "御手杵",
+    "骨喰藤四郎"
+  ],
+  "battlefield": "青野原の記憶 京都（阿弥陀ヶ峰）（8-1）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 62,
+      "name": "『阿吽の大小』"
+    },
+    "直進5マス目到達時","回想62との同時回収不可"
+  ]
+},
+{
+  "id": 64,
+  "name": "『つるぎの兄弟』",
+  "characters": [
+    "白山吉光",
+    "一期一振"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 65,
+  "name": "『由来は近くも今は遠く』",
+  "characters": [
+    "肥前忠広",
+    "陸奥守吉行"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 66,
+  "name": "『由来は近く、心も近く』",
+  "characters": [
+    "肥前忠広",
+    "南海太郎朝尊",
+    "陸奥守吉行"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 67,
+  "name": "『風が全てを押し流す』",
+  "characters": [
+    "千代金丸",
+    "北谷菜切"
+  ],
+  "battlefield": "江戸の記憶 江戸（元禄）（2-3）",
+  "trigger": "出陣"
+},
+{
+  "id": 68,
+  "name": "『信用と亀の間に』",
+  "characters": [
+    "千代金丸",
+    "北谷菜切",
+    "浦島虎徹"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 69,
+  "name": "『海を思い』",
+  "characters": [
+    "千代金丸",
+    "北谷菜切",
+    "浦島虎徹"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 68,
+      "name": "『信用と亀の間に』"
+    }
+  ]
+},
+{
+  "id": 70,
+  "name": "『石投げの見物』",
+  "characters": [
+    "同田貫正国",
+    "御手杵"
+  ],
+  "battlefield": "青野原の記憶 信濃（上田城）（8-2）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 63,
+      "name": "『同病相憐れむ』"
+    },
+    "ボスマス手前4マス目に到達"
+  ]
+},
+{
+  "id": 71,
+  "name": "『ここから生まれしもの』",
+  "characters": [
+    "骨喰藤四郎",
+    "同田貫正国",
+    "御手杵"
+  ],
+  "battlefield": "青野原の記憶 信濃（上田城）（8-2）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 70,
+      "name": "『石投げの見物』"
+    },
+    "ボスマス手前4マス目に到達","回想70との同時回収不可"
+  ]
+},
+{
+  "id": 72,
+  "name": "『風に乗れ』",
+  "characters": [
+    "桑名江",
+    "豊前江"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 73,
+  "name": "『すていじ あくと２』",
+  "characters": [
+    "桑名江",
+    "豊前江"
+  ],
+  "battlefield": null,
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 58,
+      "name": "『すていじ あくと1』"
+    }
+  ]
+},
+{
+  "id": 74,
+  "name": "『新々刀の系譜』",
+  "characters": [
+    "南海太郎朝尊",
+    "水心子正秀"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 75,
+  "name": "『名を分かつ』",
+  "characters": [
+    "長曽祢虎徹",
+    "源清麿"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 76,
+  "name": "『言えない過去』",
+  "characters": [
+    "豊前江",
+    "松井江"
+  ],
+  "battlefield": "織豊の記憶 関ヶ原（3-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 77,
+  "name": "『すていじ あくと３』",
+  "characters": [
+    "篭手切江",
+    "豊前江",
+    "桑名江",
+    "松井江"
+  ],
+  "battlefield": null,
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 73,
+      "name": "『すていじ あくと2』"
+    }
+  ]
+},
+{
+  "id": 78,
+  "name": "『一文字一家の長』",
+  "characters": [
+    "南泉一文字",
+    "山鳥毛"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 79,
+  "name": "『予想外の再会』",
+  "characters": [
+    "小豆長光",
+    "山鳥毛"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 80,
+  "name": "『見ることのなかった世界』",
+  "characters": [
+    "秋田藤四郎",
+    "大典太光世"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 81,
+  "name": "『秀吉と信長の話』",
+  "characters": [
+    "鬼丸国綱",
+    "薬研藤四郎"
+  ],
+  "battlefield": "織豊の記憶 安土（3-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 82,
+  "name": "『粟田口の』",
+  "characters": [
+    "鬼丸国綱",
+    "乱藤四郎"
+  ],
+  "battlefield": "青野原の記憶 京都（阿弥陀ヶ峰）（8-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 83,
+  "name": "『鬼丸と鬼切』",
+  "characters": [
+    "鬼丸国綱",
+    "髭切"
+  ],
+  "battlefield": "武家の記憶 鎌倉（元弘の乱）（5-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 84,
+  "name": "『天下五剣がまた一つ』",
+  "characters": [
+    "三日月宗近",
+    "鬼丸国綱"
+  ],
+  "battlefield": "戦国の記憶 京都（西陣）（4-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 85,
+  "name": "『天下五剣が集うとき』",
+  "characters": [
+    "数珠丸恒次",
+    "鬼丸国綱"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 86,
+  "name": "『妖物斬りの陰気』",
+  "characters": [
+    "大典太光世",
+    "鬼丸国綱"
+  ],
+  "battlefield": "戦国の記憶 京都（西陣）（4-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 87,
+  "name": "『妖物斬りの陽気』",
+  "characters": [
+    "大典太光世",
+    "鬼丸国綱"
+  ],
+  "battlefield": "戦国の記憶 京都（西陣）（4-4）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 86,
+      "name": "『妖物斬りの陰気』"
+    },
+    "回想86との同時回収不可"
+  ]
+},
+{
+  "id": 88,
+  "name": "『妖物斬りの酒気』",
+  "characters": [
+    "",
+    ""
+  ],
+  "battlefield": "戦国の記憶 京都（西陣）（4-4）",
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 87,
+      "name": "『妖物斬りの陽気』"
+    }
+  ]
+},
+{
+  "id": 89,
+  "name": "『いくさのあと』",
+  "characters": [
+    "古今伝授の太刀",
+    "地蔵行平"
+  ],
+  "battlefield": "武家の記憶 鎌倉（元弘の乱）（5-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 90,
+  "name": "『本丸という歌集』",
+  "characters": [
+    "歌仙兼定",
+    "古今伝授の太刀"
+  ],
+  "battlefield": "江戸の記憶 大阪（大阪冬の陣）（2-4）",
+  "trigger": "出陣",
+  "prerequisites": ["ボスマス勝利(判定問わず。敗北した場合は発生せず)"]
+},
+{
+  "id": 91,
+  "name": "『僧と地蔵』",
+  "characters": [
+    "江雪左文字",
+    "地蔵行平"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 92,
+  "name": "『揃いし沖縄の宝剣』",
+  "characters": [
+    "千代金丸",
+    "北谷菜切",
+    "治金丸"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 93,
+  "name": "『兄の影として 花』",
+  "characters": [
+    "北谷菜切",
+    "治金丸"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 94,
+  "name": "『兄の影として 波』",
+  "characters": [
+    "千代金丸",
+    "治金丸"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 95,
+  "name": "『翼顕現 桜』",
+  "characters": [
+    "山鳥毛",
+    "日光一文字"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 96,
+  "name": "『一文字一家の躾』",
+  "characters": [
+    "南泉一文字",
+    "日光一文字"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 78,
+      "name": "『一文字一家の長』"
+    }
+  ]
+},
+{
+  "id": 97,
+  "name": "『黒田家の弟分』",
+  "characters": [
+    "日本号",
+    "日光一文字"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 21,
+      "name": "『黒田家の話』"
+    }
+  ]
+},
+{
+  "id": 98,
+  "name": "『雪睦み』",
+  "characters": [
+    "江雪左文字",
+    "太閤左文字"
+  ],
+  "battlefield": "織豊の記憶 関ヶ原（3-1）",
+  "trigger": "帰城後"
+},
+{
+  "id": 99,
+  "name": "『花綻ぶ』",
+  "characters": [
+    "宗三左文字",
+    "太閤左文字"
+  ],
+  "battlefield": "織豊の記憶 安土（3-4）",
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 7,
+      "name": "『今川の剣』"
+    }
+  ]
+},
+{
+  "id": 100,
+  "name": "『月冴え』",
+  "characters": [
+    "小夜左文字",
+    "太閤左文字"
+  ],
+  "battlefield": "織豊の記憶 安土（3-4）",
+  "trigger": "帰城後"
+},
+{
+  "id": 101,
+  "name": "『同類異形』",
+  "characters": [
+    " 巴形薙刀",
+    "静形薙刀",
+    "大千鳥十文字槍"
+  ],
+  "battlefield": "（）",
+  "trigger": "出陣"
+},
+{
+  "id": 102,
+  "name": "『塵芥』",
+  "characters": [
+    "大千鳥十文字槍",
+    "泛塵"
+  ],
+  "battlefield": "青野原の記憶 信濃（上田城）（8-2）",
+  "trigger": "出陣"
+},
+{
+  "id": 103,
+  "name": "『紅塵』",
+  "characters": [
+    "日向正宗",
+    "泛塵"
+  ],
+  "battlefield": "青野原の記憶 信濃（上田城）（8-2）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 102,
+      "name": "『塵芥』"
+    }
+  ]
+},
+{
+  "id": 104,
+  "name": "『一文字一家の隠居』",
+  "characters": [
+    "日光一文字",
+    "一文字則宗"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 95,
+      "name": "『翼顕現 桜』"
+    }
+  ]
+},
+{
+  "id": 105,
+  "name": "『猫と隠居と歪と』",
+  "characters": [
+    "南泉一文字",
+    "一文字則宗"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 106,
+  "name": "『これもまたひとつの』",
+  "characters": [
+    "大和守安定",
+    "一文字則宗"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 2,
+      "name": "『沖田の話』"
+    }
+  ]
+},
+{
+  "id": 107,
+  "name": "『雨雲のお犬様』",
+  "characters": [
+    "五月雨江",
+    "村雲江"
+  ],
+  "battlefield": "江戸の記憶 江戸（元禄）（2-3）",
+  "trigger": "出陣"
+},
+{
+  "id": 108,
+  "name": "『すていじ あくと４』",
+  "characters": [
+    "篭手切江",
+    "豊前江",
+    "桑名江",
+    "松井江",
+    "五月雨江",
+    "村雲江"
+  ],
+  "battlefield": null,
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 77,
+      "name": "『すていじ あくと３』"
+    }
+  ]
+},
+{
+  "id": 109,
+  "name": "『一文字一家の白風』",
+  "characters": [
+    "日光一文字",
+    "姫鶴一文字"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 95,
+      "name": "『翼顕現 桜』"
+    }
+  ]
+},
+{
+  "id": 110,
+  "name": "『あまえとがまん』",
+  "characters": [
+    "謙信景光",
+    "姫鶴一文字"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 111,
+  "name": "『鶴の一笑』",
+  "characters": [
+    "太閤左文字",
+    "姫鶴一文字"
+  ],
+  "battlefield": "江戸の記憶 大阪（大阪冬の陣）（2-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 112,
+  "name": "『光忠の兄』",
+  "characters": [
+    "燭台切光忠",
+    "福島光忠"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 113,
+  "name": "『正則の話』",
+  "characters": [
+    "日本号",
+    "福島光忠"
+  ],
+  "battlefield": "織豊の記憶 関ヶ原（3-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 114,
+  "name": "『万葉の時を越え』",
+  "characters": [
+    "小烏丸",
+    "七星剣"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 115,
+  "name": "『すていじ あくと５』",
+  "characters": [
+    "篭手切江",
+    "稲葉江"
+  ],
+  "battlefield": null,
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 108,
+      "name": "『すていじ あくと４』"
+    }
+  ]
+},
+{
+  "id": 116,
+  "name": "『琵琶湖のほとりの』",
+  "characters": [
+    "蜂須賀虎徹",
+    "浦島虎徹"
+  ],
+  "battlefield": "織豊の記憶 関ヶ原（3-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 117,
+  "name": "『彦根と虎徹』",
+  "characters": [
+    "小竜景光",
+    "蜂須賀虎徹"
+  ],
+  "battlefield": "青野原の記憶 美濃（青野原）（8-3）",
+  "trigger": "出陣"
+},
+{
+  "id": 118,
+  "name": "『風浪』",
+  "characters": [
+    "治金丸",
+    "笹貫"
+  ],
+  "battlefield": "維新の記憶 鳥羽（1-4）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 92,
+      "name": "『揃いし沖縄の宝剣』"
+    }
+  ]
+},
+{
+  "id": 119,
+  "name": "『こがらすとこがらし』",
+  "characters": [
+    "小烏丸",
+    "抜丸"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 120,
+  "name": "『胡蝶は香に誘われ』",
+  "characters": [
+    "石切丸",
+    "抜丸"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 121,
+  "name": "『之定の同士』",
+  "characters": [
+    "歌仙兼定",
+    "人間無骨"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 122,
+  "name": "『兼定の先輩』",
+  "characters": [
+    "和泉守兼定",
+    "人間無骨"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 123,
+  "name": "『武蔵坊と鬼武蔵』",
+  "characters": [
+    "岩融",
+    "人間無骨"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 124,
+  "name": "『森家の話』",
+  "characters": [
+    "不動行光",
+    "人間無骨"
+  ],
+  "battlefield": "織豊の記憶 安土（3-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 125,
+  "name": "『惟有黒鉄而已』",
+  "characters": [
+    "大般若長光",
+    "八丁念仏"
+  ],
+  "battlefield": "戦国の記憶 長篠（4-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 126,
+  "name": "『夏塵』",
+  "characters": [
+    "泛塵",
+    "八丁念仏"
+  ],
+  "battlefield": "江戸の記憶 大阪（大阪冬の陣）（2-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 127,
+  "name": "『ひょうたんとたぬき 青柿』",
+  "characters": [
+    "一期一振",
+    "同田貫正国"
+  ],
+  "battlefield": "青野原の記憶 美濃（青野原）（8-3）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 62,
+      "name": "『阿吽の大小』"
+    }
+  ]
+},
+{
+  "id": 128,
+  "name": "『ひょうたんとたぬき 渋柿』",
+  "characters": [
+    "一期一振",
+    "同田貫正国"
+  ],
+  "battlefield": "青野原の記憶 京都（五条）（8-4）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 127,
+      "name": "『ひょうたんとたぬき 青柿』"
+    }
+  ]
+},
+{
+  "id": 129,
+  "name": "『正宗の話』",
+  "characters": [
+    "日向正宗",
+    "石田正宗"
+  ],
+  "battlefield": "江戸の記憶 江戸（2-2）",
+  "trigger": "出陣"
+},
+{
+  "id": 130,
+  "name": "『正宗と虎徹』",
+  "characters": [
+    "蜂須賀虎徹",
+    "石田正宗"
+  ],
+  "battlefield": "青野原の記憶 美濃（青野原）（8-3）",
+  "trigger": "出陣"
+},
+{
+  "id": 131,
+  "name": "『栄誉と名声の狭間で』",
+  "characters": [
+    "蜂須賀虎徹",
+    "石田正宗"
+  ],
+  "battlefield": "青野原の記憶 京都（五条）（8-4）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 130,
+      "name": "『正宗と虎徹』"
+    }
+  ]
+},
+{
+  "id": 132,
+  "name": "『毒と薬』",
+  "characters": [
+    "薬研藤四郎",
+    "実休光忠"
+  ],
+  "battlefield": "織豊の記憶 安土（3-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 133,
+  "name": "『仇も巡れば他生の縁』",
+  "characters": [
+    "宗三左文字",
+    "実休光忠"
+  ],
+  "battlefield": "織豊の記憶 本能寺（3-2）",
+  "trigger": "出陣"
+},
+{
+  "id": 134,
+  "name": "『京極の丹碧』",
+  "characters": [
+    "にっかり青江",
+    "京極正宗"
+  ],
+  "battlefield": "江戸の記憶 大阪（大阪冬の陣）（2-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 135,
+  "name": "『正宗の兄弟』",
+  "characters": [
+    "石田正宗",
+    "京極正宗"
+  ],
+  "battlefield": "武家の記憶 鎌倉（元弘の乱）（5-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 136,
+  "name": "『関の義兄弟』",
+  "characters": [
+    "人間無骨",
+    "孫六兼元"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 137,
+  "name": "『新々刀の推し事』",
+  "characters": [
+    "水心子正秀",
+    "孫六兼元"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 74,
+      "name": "『新々刀の系譜』"
+    }
+  ]
+},
+{
+  "id": 138,
+  "name": "『最強と無敵』",
+  "characters": [
+    "一文字則宗",
+    "孫六兼元"
+  ],
+  "battlefield": "維新の記憶 宇都宮（1-3）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 66,
+      "name": "『由来は近く、心も近く』"
+    }
+  ]
+},
+{
+  "id": 139,
+  "name": "『咆哮、遠く』",
+  "characters": [
+    "肥前忠広",
+    "孫六兼元"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 140,
+  "name": "『葦辺の鶴雀』",
+  "characters": [
+    "姫鶴一文字",
+    "後家兼光"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 141,
+  "name": "『無頼の桜梅』",
+  "characters": [
+    "山姥切長義",
+    "後家兼光"
+  ],
+  "battlefield": "織豊の記憶 関ヶ原（3-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 142,
+  "name": "『あこがれとげんじつ』",
+  "characters": [
+    "五虎退",
+    "後家兼光"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 143,
+  "name": "『竜の弟子』",
+  "characters": [
+    "大倶利伽羅",
+    "火車切"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 144,
+  "name": "『謙信のおこころ』",
+  "characters": [
+    "謙信景光",
+    "火車切"
+  ],
+  "battlefield": "織豊の記憶 越前（3-3）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 51,
+      "name": "『謙信の話』"
+    }
+  ]
+},
+{
+  "id": 145,
+  "name": "『すていじ あくと６』",
+  "characters": [
+    "篭手切江",
+    "豊前江",
+    "桑名江",
+    "松井江",
+    "五月雨江",
+    "村雲江"
+  ],
+  "battlefield": null,
+  "trigger": "帰城後",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 115,
+      "name": "『すていじ あくと５』"
+    },
+    "稲葉江と富田江を両方所持"
+  ]
+},
+{
+  "id": 146,
+  "name": "『ばっくすていじ』",
+  "characters": [
+    "篭手切江",
+    "富田江"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 145,
+      "name": "『すていじ あくと６』"
+    }
+  ]
+},
+{
+  "id": 147,
+  "name": "『夢のあとさき』",
+  "characters": [
+    "稲葉江",
+    "富田江"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 148,
+  "name": "『光と闇のさきへと』",
+  "characters": [
+    "豊前江",
+    "富田江"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 147,
+      "name": "『夢のあとさき』"
+    }
+  ]
+},
+{
+  "id": 149,
+  "name": "『秋元家の話』",
+  "characters": [
+    "鳴狐",
+    "大慶直胤"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 150,
+  "name": "『洞に地蔵』",
+  "characters": [
+    "地蔵行平",
+    "大慶直胤"
+  ],
+  "battlefield": "武家の記憶 厚樫山（阿津賀志山の戦い）（5-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 151,
+  "name": "『鋼の先に』",
+  "characters": [
+    "笹貫",
+    "大慶直胤"
+  ],
+  "battlefield": "維新の記憶 函館（1-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 152,
+  "name": "『新々刀の秘め事』",
+  "characters": [
+    "南海太郎朝尊",
+    "大慶直胤"
+  ],
+  "battlefield": "武家の記憶 鎌倉（元弘の乱）（5-1）",
+  "trigger": "出陣"
+},
+{
+  "id": 153,
+  "name": "『江戸紫花合 花菖蒲』",
+  "characters": [
+    "水心子正秀",
+    "大慶直胤"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 154,
+  "name": "『江戸紫花合 雪割草』",
+  "characters": [
+    "源清麿",
+    "大慶直胤"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 153,
+      "name": "『江戸紫花合 花菖蒲』"
+    }
+  ]
+},
+{
+  "id": 155,
+  "name": "『江戸紫花合 朝顔』",
+  "characters": [
+    "源清麿",
+    "大慶直胤"
+  ],
+  "battlefield": "江戸の記憶 江戸（2-2）",
+  "trigger": "出陣"
+},
+{
+  "id": 156,
+  "name": "『モテモテが世を救う？』",
+  "characters": [
+    "包丁藤四郎",
+    "丙子椒林剣"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 157,
+  "name": "『太子の話』",
+  "characters": [
+    "七星剣",
+    "丙子椒林剣"
+  ],
+  "battlefield": "江戸の記憶 大阪（大阪冬の陣）（2-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 158,
+  "name": "『正宗の役目』",
+  "characters": [
+    "石田正宗",
+    "九鬼正宗"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 159,
+  "name": "『夢を運ぶ船』",
+  "characters": [
+    "陸奥守吉行",
+    "九鬼正宗"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 160,
+  "name": "『三本の矢の刀たち』",
+  "characters": [
+    "毛利藤四郎",
+    "九鬼正宗"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 161,
+  "name": "『友だち、あらためて』",
+  "characters": [
+    "火車切",
+    "九鬼正宗"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 162,
+  "name": "『翼をもとめて』",
+  "characters": [
+    "秋田藤四郎",
+    "雲生"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 163,
+  "name": "『一家一線』",
+  "characters": [
+    "姫鶴一文字",
+    "道誉一文字"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 164,
+  "name": "『対極の好敵手』",
+  "characters": [
+    "小竜景光",
+    "道誉一文字"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 165,
+  "name": "『目に見えぬ束縛』",
+  "characters": [
+    "亀甲貞宗",
+    "道誉一文字"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 166,
+  "name": "『婆娑羅の深層』",
+  "characters": [
+    "京極正宗",
+    "道誉一文字"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 167,
+  "name": "『雲居なす予報図』",
+  "characters": [
+    "雲生",
+    "雲次"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 168,
+  "name": "『蛍火と陽炎』",
+  "characters": [
+    "蛍丸",
+    "面影"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 169,
+  "name": "『陽炎にゆらめく』",
+  "characters": [
+    "明石国行",
+    "面影"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 168,
+      "name": "『蛍火と陽炎』"
+    }
+  ]
+},
+{
+  "id": 170,
+  "name": "『蛍火に明からむ』",
+  "characters": [
+    "明石国行",
+    "蛍丸"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 169,
+      "name": "『陽炎にゆらめく』"
+    }
+  ]
+},
+{
+  "id": 171,
+  "name": "『漬物は辛じょっぱで』",
+  "characters": [
+    "信濃藤四郎",
+    "古備前信房"
+  ],
+  "battlefield": "維新の記憶 会津（1-2）",
+  "trigger": "出陣"
+},
+{
+  "id": 172,
+  "name": "『波乗りらぶぴーす』",
+  "characters": [
+    "笹貫",
+    "古備前信房"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 173,
+  "name": "『バリのり古備前！』",
+  "characters": [
+    "八丁念仏",
+    "古備前信房"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 174,
+  "name": "『童子切はここか？』",
+  "characters": [
+    "大包平",
+    "童子切安綱 剥落"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 45,
+      "name": "『童子切はどこだ？』"
+    }
+  ]
+},
+{
+  "id": 175,
+  "name": "『天下五剣は揃えども』",
+  "characters": [
+    "三日月宗近",
+    "童子切安綱 剥落"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 84,
+      "name": "『天下五剣がまた一つ』"
+    },
+        {
+      "type": "recollection",
+      "number": 85,
+      "name": "『天下五剣が集うとき』"
+    },
+        {
+      "type": "recollection",
+      "number": 86,
+      "name": "『妖物斬りの陰気』"
+    }
+  ]
+},
+{
+  "id": 176,
+  "name": "『津山の赤と白』",
+  "characters": [
+    "石田正宗",
+    "童子切安綱 剥落"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 177,
+  "name": "『星の索を編んで』",
+  "characters": [
+    "篭手切江",
+    "倶利伽羅江"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 178,
+  "name": "『蠍炎』",
+  "characters": [
+    "松井江",
+    "倶利伽羅江"
+  ],
+  "battlefield": "織豊の記憶 越前（3-3）",
+  "trigger": "出陣"
+},
+{
+  "id": 179,
+  "name": "『本丸からの百韻』",
+  "characters": [
+    "古今伝授の太刀",
+    "倶利伽羅江"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 90,
+      "name": "『本丸という歌集』"
+    }
+  ]
+},
+{
+  "id": 180,
+  "name": "『孝行刀の話』",
+  "characters": [
+    "不動行光",
+    "倶利伽羅江"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 124,
+      "name": "『森家の話』"
+    }
+  ]
+},
+{
+  "id": 181,
+  "name": "『山と歌と温泉と』",
+  "characters": [
+    "祢々切丸",
+    "三郎国宗"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 182,
+  "name": "『大江戸物見遊山』",
+  "characters": [
+    "ソハヤノツルキ",
+    "三郎国宗"
+  ],
+  "battlefield": "江戸の記憶 江戸（元禄）（2-3）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 28,
+      "name": "『幕府の霊的な守り』"
+    }
+  ]
+},
+{
+  "id": 183,
+  "name": "『眠れる猫と遠鳴きの鶴』",
+  "characters": [
+    "鶴丸国永",
+    "三郎国宗"
+  ],
+  "battlefield": "武家の記憶 博多湾（元寇）（5-2）",
+  "trigger": "出陣"
+},
+{
+  "id": 184,
+  "name": "『本科と写し』",
+  "characters": [
+    "へし切長谷部",
+    "安宅切"
+  ],
+  "battlefield": null,
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 22,
+      "name": "『黒田家の話 その後』"
+    }
+  ]
+},
+{
+  "id": 185,
+  "name": "『紫紺の薔薇』",
+  "characters": [
+    "実休光忠",
+    "安宅切"
+  ],
+  "battlefield": "織豊の記憶 安土（3-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 186,
+  "name": "『英雄を追って』",
+  "characters": [
+    "大千鳥十文字槍",
+    "二筋樋貞宗"
+  ],
+  "battlefield": "江戸の記憶 大阪（大阪冬の陣）（2-4）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 102,
+      "name": "『塵芥』"
+    }
+  ]
+},
+{
+  "id": 187,
+  "name": "『初めまして、改めて』",
+  "characters": [
+    "鯰尾藤四郎",
+    "二筋樋貞宗"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 188,
+  "name": "『空を目指し集え』",
+  "characters": [
+    "雲生",
+    "雲次",
+    "雲重"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 189,
+  "name": "『日光の神刀』",
+  "characters": [
+    "祢々切丸",
+    "柏太刀"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 190,
+  "name": "『元気百倍柏餅』",
+  "characters": [
+    "厚藤四郎",
+    "柏太刀"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 191,
+  "name": "『薩摩の刀の話』",
+  "characters": [
+    "笹貫",
+    "波平行安"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 192,
+  "name": "『蒼浪』",
+  "characters": [
+    "千代金丸",
+    "波平行安"
+  ],
+  "battlefield": "（）",
+  "trigger": "出陣",
+  "prerequisites": [
+    {
+      "type": "recollection",
+      "number": 118,
+      "name": "『風浪』"
+    }
+  ]
+},
+{
+  "id": 193,
+  "name": "『波濤を行く志士』",
+  "characters": [
+    "陸奥守吉行",
+    "波平行安"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 194,
+  "name": "『敵か味方かともだちか』",
+  "characters": [
+    "今剣",
+    "狐ヶ崎為次"
+  ],
+  "battlefield": "武家の記憶 厚樫山（阿津賀志山の戦い）（5-4）",
+  "trigger": "出陣"
+},
+{
+  "id": 195,
+  "name": "『狐の監査 白山吉光』",
+  "characters": [
+    "白山吉光",
+    "狐ヶ崎為次"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 196,
+  "name": "『桃待ち猿』",
+  "characters": [
+    "太閤左文字",
+    "桃太郎祐定"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 197,
+  "name": "『唯欲窮千里目』",
+  "characters": [
+    "大般若長光",
+    "桃太郎祐定"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 198,
+  "name": "『後代は甘え上手で』",
+  "characters": [
+    "安宅切",
+    "桃太郎祐定"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 199,
+  "name": "『蹴球やろうよ！』",
+  "characters": [
+    "後藤藤四郎",
+    "朝倉藤四郎"
+  ],
+  "battlefield": null,
+  "trigger": "出陣"
+},
+{
+  "id": 200,
+  "name": "『朝倉家の話』",
+  "characters": [
+    "倶利伽羅江",
+    "朝倉藤四郎"
+  ],
+  "battlefield": "織豊の記憶 安土（3-4）",
+  "trigger": "出陣"
+}
+]
