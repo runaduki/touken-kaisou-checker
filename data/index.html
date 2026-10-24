@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="刀剣乱舞の回想回収チェックリスト">
+  <title>刀剣乱舞 回想チェッカー</title>
+  <link rel="stylesheet" href="./style.css">
+  <script src="./script.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <p class="eyebrow">TOUKEN RANBU</p>
+      <h1>回想チェッカー</h1>
+      <p class="subtitle">回想の回収状況を記録しよう</p>
+    </div>
+  </header>
+
+  <main class="page">
+    <section class="progress-panel" aria-labelledby="progress-heading">
+      <div class="progress-top">
+        <div>
+          <h2 id="progress-heading">回収状況</h2>
+          <p id="progress-text" aria-live="polite">読み込み中…</p>
+        </div>
+        <strong class="progress-percent" id="progress-percent">0%</strong>
+      </div>
+      <div class="progress-track" role="progressbar" aria-label="回想回収率" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" id="progress-bar">
+        <span id="progress-fill"></span>
+      </div>
+    </section>
+
+    <section class="filters" aria-labelledby="filter-heading">
+      <div class="section-heading">
+        <h2 id="filter-heading">検索・絞り込み</h2>
+        <button type="button" class="text-button" id="reset-filters">条件をリセット</button>
+      </div>
+      <div class="filter-grid">
+        <label class="field field-wide">
+          <span>回想名・刀剣男士名で検索</span>
+          <input type="search" id="search-input" placeholder="例：山姥切国広、沖田の話" autocomplete="off">
+        </label>
+        <label class="field">
+          <span>合戦場で絞り込む</span>
+          <select id="battlefield-select">
+            <option value="">すべての合戦場</option>
+          </select>
+        </label>
+      </div>
+      <label class="check-filter">
+        <input type="checkbox" id="hide-completed">
+        <span>回収済みを隠す</span>
+      </label>
+      <label class="check-filter">
+        <input type="checkbox" id="include-unspecified">
+        <span>時代・地域などの指定なしも表示</span>
+      </label>
+      <p id="result-count" class="result-count" aria-live="polite"></p>
+    </section>
+
+    <section class="list-section" aria-labelledby="list-heading">
+      <div class="section-heading">
+        <h2 id="list-heading">回想一覧</h2>
+        <span class="list-note">チェック状態はこのブラウザに保存されます</span>
+      </div>
+      <div id="status-message" class="status-message" role="status">データを読み込んでいます…</div>
+      <div id="recollection-list" class="recollection-list"></div>
+    </section>
+
+    <footer class="site-footer">
+      <p>回収状況は使用中のブラウザに保存されます。別の端末・ブラウザとは共有されません。</p>
+    </footer>
+  </main>
+
+  <dialog id="detail-dialog" class="detail-dialog">
+    <div class="dialog-head">
+      <h2 id="dialog-title">回想詳細</h2>
+      <button type="button" class="close-dialog" id="close-dialog" aria-label="閉じる">×</button>
+    </div>
+    <div id="dialog-content"></div>
+  </dialog>
+</body>
+</html>
